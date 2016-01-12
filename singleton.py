@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Author: yujinlun
+# @Author: smithallen
 # @Date:   2016-01-05 16:31:45
 # @Last Modified by:   smithallen
 # @Last Modified time: 2016-01-06 16:32:23
