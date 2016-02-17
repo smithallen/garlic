@@ -1,0 +1,6 @@
+1. install protobuff on mac
+brew install protobuf
+2. in the .proto dir, run protoc command
+protoc -I=$SRC_DIR --python_out=$DST_DIR $SRC_DIR/addressbook.proto
+protoc addressbook.proto --python_out=.
+3. sudo pip install protobuf
